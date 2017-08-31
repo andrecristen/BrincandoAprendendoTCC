@@ -5,7 +5,7 @@ public class RacicinioLogico {
 
     private String mQuestoes [] = {
             "Uma caixa de ovos é composta por 12 ovos. Quantas caixas necessito para ter 84 ovos ?", //1
-            "Fui à uma loja e comprei 300 balas. Comi 173 e dei 94 para meu irmão. Quantas balas me restaram ?", //2
+            "Fui à uma loja e comprei 300 balas. Comi 173 e dei 94 para meu irmão. Quantas balas me restaram?", //2
             "Meu pai me comprou um violão de 300 reais, 8 CD's de 10 reais e uma camiseta de 30 reais. Entregando 500 reais ao caixa, quanto lhe restou de troco ?\n", //3
             "O Sítio de Aline, em uma semana, produziu 900 ovos, a serem vendidos em bandejas com 10 ovos, cada. Se todas as bandejas foram vendidas por R$ 4,00, cada uma; no total, quanto o Sítio de Aline faturou com essa venda?   \n", //4
             "Sabendo que um pato tem 2 patas, quantas patas tem 35 patos ?", //5
