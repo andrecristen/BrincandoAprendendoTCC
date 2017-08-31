@@ -5,18 +5,18 @@ public class RacicinioLogico {
 
     private String mQuestoes [] = {
             "Uma caixa de ovos é composta por 12 ovos. Quantas caixas necessito para ter 84 ovos ?", //1
-            "Fui à uma loja e comprei 300 balas. Comi 173 e deu 94 para meu irmão. Quantas balas me restaram ?", //2
+            "Fui à uma loja e comprei 300 balas. Comi 173 e dei 94 para meu irmão. Quantas balas me restaram ?", //2
             "Meu pai me comprou um violão de 300 reais, 8 CD's de 10 reais e uma camiseta de 30 reais. Entregando 500 reais ao caixa, quanto lhe restou de troco ?\n", //3
             "O Sítio de Aline, em uma semana, produziu 900 ovos, a serem vendidos em bandejas com 10 ovos, cada. Se todas as bandejas foram vendidas por R$ 4,00, cada uma; no total, quanto o Sítio de Aline faturou com essa venda?   \n", //4
             "Sabendo que um pato tem 2 patas, quantas patas tem 35 patos ?", //5
             "Sabendo que 1Km tem 1000 metros, quantos quilômetros tem 3500 metros ?\n", //6
             "André tem três notas em provas de matemática. Na primeira tirou 8, na segunda 6 e na terceira 4. Determine a média de André no bimestre!    \n", //7
             "Adrian nasceu no ano de 1997, quando estivermos no ano 2060, qual será sua idade?", //8
-            "Morgana  tem três maçãs se ela pegar as três sementes que cada maçã que possui e plantar, cada nova árvore no futuro irá gerar 17 maçãs, quantas maçãs Morgana terá?\n", //9
+            "Morgana  tem três maçãs. Se ela pegar as três sementes que cada maçã que possui e plantar, cada nova árvore no futuro irá gerar 17 maçãs, quantas maçãs Morgana terá?\n", //9
             "Tendo-se um retângulo de base 5 e altura 4, calcule sua área.", //10
             "O que representa uma dízima periódica. Ex: 5,5444 ?\n", //11
             "Considerando um mês de 30 dias, 15 dias representam quanto por cento de 1 bimestre? Sabe-se que 1 bimestre é igual a 2 meses", //12
-            "Um metro corresponde a 100 centímetros. Quanto corresponde um quarto de metro ?\n", //13
+            "Um metro corresponde a 100 centímetros. Quanto corresponde um quarto de um metro ?\n", //13
             "Coloque os números a seguir em ordem CRESCENTE: 7, 10, 40, 4, 15, 29\n",//14
             "Agora os escreva em ordem DECRESCENTE: 1, 3, 20, 12, 7, 19\n",//15
             "Rosa tem 30 rosas para distribuir em 5 vasos. Sabendo que todos os vasos devem ter a mesma quantia de rosas, quantas rosas cada vaso deve ter ? \n",//16
@@ -40,7 +40,7 @@ public class RacicinioLogico {
     private String mOpcoes [][] = {
             {"6", "7", "8"},//1
             {"37", "26", "33"},//2
-            {"30 reais", "37 reais", "31 reais"},//3
+            {"90 reais", "80 reais", "70 reais"},//3
             {"360 reais", "370 reais", "160 reais"},//4
             {"80", "74", "70"},//5
             {"3,5Km", "5Km", "4,5Km"},//6
@@ -62,14 +62,14 @@ public class RacicinioLogico {
             {"7200 metros", "7300 metros", "7350 metros"},//22
             {"89", "80", "84"},//23
             {"6", "7", "9"},//24
-            {"24", "12", "18"}//25
+            {"37", "27", "47"}//25
 
     };
 
 
 
 
-    private String mRespostaCorreta[] = {"7", "33", "30 reais", "360 reais","70","3,5Km","6","63","153","20m²","Quando um número após a vírgula repete infinitamente","25%","20cm","4, 7, 10, 15, 29, 40\n","20, 19, 12, 7, 3, 1\n","6","4-8-12-16-20-24-28-32","43","6","16 reais","180 reais","7200 metros","84","7","18"};
+    private String mRespostaCorreta[] = {"7", "33", "90 reais", "360 reais","70","3,5Km","6","63","153","20m²","Quando um número após a vírgula repete infinitamente","25%","25cm","4, 7, 10, 15, 29, 40\n","20, 19, 12, 7, 3, 1\n","6","4-8-12-16-20-24-28-32","43","6","16 reais","180 reais","7200 metros","84","7","37"};
 
 
 

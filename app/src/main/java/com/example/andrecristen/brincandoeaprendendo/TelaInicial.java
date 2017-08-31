@@ -18,5 +18,10 @@ public class TelaInicial extends AppCompatActivity {
         Intent telaMenu = new Intent(this, TelaMenu.class);
         startActivity(telaMenu);
     }
+    public void startTelaSobre(View view) {
+
+        Intent telaSobre = new Intent(this, Sobre.class);
+        startActivity(telaSobre);
+    }
 
 }
